@@ -9,7 +9,7 @@
 
 const name = '京东种豆得豆';
 const $ = new Env(name);
-const Key = 'pt_key=AAJggE67ADDE8scguQdZrmNz_hPR_bBfnUWp6u7cBdqhddFBUbGKBcGTz7J4q1Hr-DgbpNuSg1k;pt_pin=jd_47333c331cada;';//单引号内自行填写您抓取的京东Cookie
+const Key = '"pt_key=AAJggE67ADDE8scguQdZrmNz_hPR_bBfnUWp6u7cBdqhddFBUbGKBcGTz7J4q1Hr-DgbpNuSg1k;pt_pin=jd_47333c331cada;"';//单引号内自行填写您抓取的京东Cookie
 //直接用NobyDa的jd cookie
 const cookie =  Key ? Key : $.getdata('CookieJD3');
 let jdNotify = $.getdata('jdPlantBeanNotify');
