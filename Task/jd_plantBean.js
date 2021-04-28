@@ -5,7 +5,7 @@
 互助码shareCode请先手动运行脚本查看打印可看到
 // quantumultx
 [task_local]
-1 7-21/2 * * * https://github.com/nzw9314/QuantumultX/raw/master/Task/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png, enabled=true
+1 7-21/2 * * * https://raw.githubusercontent.com/zeroscc/own-QuanX/main/Task/jd_plantBean.js?token=ATVPXQ3YCC27OH4SLCZXQELARFP7Y, tag=种豆得豆, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png, enabled=true
 
 const name = '京东种豆得豆';
 const $ = new Env(name);
