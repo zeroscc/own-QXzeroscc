@@ -6,7 +6,7 @@
 // quantumultx
 [task_local]
 1 7-21/2 * * * https://raw.githubusercontent.com/zeroscc/own-QuanX/main/Task/jd_plantBean.js?token=ATVPXQ3YCC27OH4SLCZXQELARFP7Y, tag=种豆得豆, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png, enabled=true
-
+*/
 const name = '京东种豆得豆';
 const $ = new Env(name);
 const Key = '"pt_key=AAJggE67ADDE8scguQdZrmNz_hPR_bBfnUWp6u7cBdqhddFBUbGKBcGTz7J4q1Hr-DgbpNuSg1k;pt_pin=jd_47333c331cada;"';//单引号内自行填写您抓取的京东Cookie
