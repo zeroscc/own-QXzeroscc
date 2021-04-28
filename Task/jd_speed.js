@@ -9,7 +9,7 @@
 // quantumultx
 // [task_local]
 // #天天加速
-// 8 */3 * * * https://gitee.com/lxk0301/scripts/raw/master/jd_speed.js, tag=京东天天加速, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdttjs.png, enabled=true
+// 8 */3 * * * https://raw.githubusercontent.com/zeroscc/own-QuanX/main/Task/jd_speed.js, tag=京东天天加速, img-url=https://raw.githubusercontent.com/znz1992/Gallery/master/jdttjs.png, enabled=true
 // Loon
 // [Script]
 // cron "8 */3 * * *" script-path=https://gitee.com/lxk0301/scripts/raw/master/jd_speed.js,tag=京东天天加速
