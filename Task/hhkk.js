@@ -1,5 +1,4 @@
 /*
-20210427 tom
 
 软件名称：火狐看看
 下载地址：https://app.mozillacoin.com/user/signup?invite_code=HG451R
