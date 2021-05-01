@@ -1,5 +1,4 @@
 /*
-微信公众号：柠檬玩机交流
 柠檬富豪小镇
 下载地址：https://hyskgame.com/apps/fuhaoxiaozhen/wxshare/index.html?createAt=1619750062&senderUserId=152420&senderInviteCode=HG7X&entryPointData=eyJzZW5kZXJVc2VySWQiOiIxNTI0MjAifQ
 
