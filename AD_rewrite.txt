@@ -530,6 +530,11 @@ hostname = *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-office-service.c
 # > 作业帮
 ^https?+:\/\/www\.zybang\.com\/adx\/ url reject-200
 # > 最右
+# > 字节跳动
+^https?+:\/\/.+?\.pstatp\.com\/img\/ad url reject-200
+^https?+:\/\/.+?\.(?>amemv|musical|snssdk|tiktokv)\.(?>com|ly)\/(?>api|motor)\/ad\/ url reject-200
+^https?+:\/\/dsp\.toutiao\.com\/api\/xunfei\/ads\/ url reject-200
+^https?+:\/\/.+?\.snssdk\.com\/motor\/operation\/activi
 ^https?+:\/\/api\.izuiyou\.com\/ad\/ url reject-200
 # > 涨乐财富通
 ^https?+:\/\/d\.zhangle\.com\/pic\/cft\/interaction\/\d{13}-1242-2248\.jpg url reject-200
